@@ -14,7 +14,7 @@ public class welcomeControlleur {
 	
 	public String welcome(@PathVariable("name") String name)
 	{
-		return ("welcome"+"  "+name);
+		return ("welcome ash"+"  "+name);
 	}
 
 }
